@@ -9,6 +9,7 @@
   "dependencies": {
     "@ll931217/vue-treeview": "^0.4.0",
     "json-tree-view-vue3": "^0.1.16",
+    "vhtml": "^2.2.0",
     "vue": "^3.2.38",
     "vue-i18n": "^9.1.10"
   },

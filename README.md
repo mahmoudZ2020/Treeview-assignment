@@ -1,3 +1,8 @@
+This is a vue project implementing a treeview of a json file
+when we click on a specific key we display the value
+in all available languages.
+
+
 # treeview-i18n-task
 
 This template should help get you started developing with Vue 3 in Vite.
